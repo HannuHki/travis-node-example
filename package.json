@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ktyacke/travis-node-example.git"
+    "url": "git+https://github.com/HannuHki/travis-node-example.git"
   },
   "keywords": [
     "TravisCI",
@@ -17,9 +17,9 @@
   "author": "Kyle Tyacke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ktyacke/travis-node-example/issues"
+    "url": "https://github.com/HannuHki/travis-node-example/issues"
   },
-  "homepage": "https://github.com/ktyacke/travis-node-example#readme",
+  "homepage": "https://github.com/HannuHki/travis-node-example#readme",
   "dependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
